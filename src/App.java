@@ -21,7 +21,7 @@ public class App {
        System.out.println("Ingrese el documento del empleado");
        documentoEmpleado =sc.nextLine();
        System.out.println("Ingrese el dia de descanso(Lunes-Viernes)");
-       diaDescanso = sc.nextLine()
+       diaDescanso = sc.nextLine();
 
     }
 }
